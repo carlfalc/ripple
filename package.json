@@ -1,0 +1,16 @@
+{
+  "name": "ripple",
+  "version": "0.1.0",
+  "description": "Ripple is a mobile app that helps college students and young professionals discover their peers' favorite spots through authentic photo check-ins and micro-reviews. Think Foursquare meets BeReal for l",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "ai",
+    "saas",
+    "the-firm"
+  ],
+  "author": "The Firm — AI Venture Studio",
+  "license": "MIT"
+}
